@@ -2,12 +2,12 @@ package com.design.demo;
 
 /**
  * @author 98549
- * @date 2022/1/20 15:38
+ * @date 2022/1/20 17:01
  */
 public class Book {
-    String name;
+    private String name;
     public Book(String name){
-        this.name=name;
+        this.name = name;
     }
 
     public String getName() {
