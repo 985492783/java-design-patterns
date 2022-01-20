@@ -5,7 +5,7 @@
 >参考书籍：《图解设计模式》  
 >本项目旨在实现上书中的代码以及个人理解
 * 适应设计模式
-  * [ ] Iterator模式
+  * [X] Iterator模式
   * [ ] Adapter模式
 * 交给子类
   * [ ] Template Method模式
@@ -23,7 +23,7 @@
   * [ ] Decorator模式
 * 访问数据结构
   * [ ] Visitor模式
-  * Chain of Responsibility模式
+  * [ ] Chain of Responsibility模式
 * 简单化
   * [ ] Facade模式
   * [ ] Mediator模式
