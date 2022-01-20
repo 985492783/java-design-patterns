@@ -6,7 +6,7 @@
 >本项目旨在实现上书中的代码以及个人理解
 * 适应设计模式
   * [X] Iterator模式
-  * [ ] Adapter模式
+  * [X] Adapter模式
 * 交给子类
   * [ ] Template Method模式
   * [ ] Factory Method模式
