@@ -9,9 +9,9 @@
   * [X] Adapter模式
 * 交给子类
   * [X] Template Method模式
-  * [ ] Factory Method模式
+  * [X] Factory Method模式
 * 生成实例
-  * [ ] Singleton模式
+  * [X] Singleton模式
   * [ ] Prototype模式
   * [ ] Builder模式
   * [ ] Abstract Factory模式
