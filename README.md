@@ -8,7 +8,7 @@
   * [X] Iterator模式
   * [X] Adapter模式
 * 交给子类
-  * [ ] Template Method模式
+  * [X] Template Method模式
   * [ ] Factory Method模式
 * 生成实例
   * [ ] Singleton模式
